@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+body{
+    background-color: #367F66;
+}
+
+.content{
+    max-width: 30rem;
+}
+
+h1{
+    font-size: 2.4rem;
+    font-family: 'Passion One', cursive;
+    color: #B9FFE6;
+    text-align: center;
+    padding-bottom: 1.5em;
+   
+}
+
+button{
+    width: 90%;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-family: 'Cabin', sans-serif;
+    color: #B9FFE6;
+    background-color: #333333;
+    border-radius: 5px;
+    margin-left: 0.8em;
+    margin-top: 0.2em;
+}
+
+.pear{
+    max-width: 50%;
+    margin-left: 6em;
+    margin-top: 1em;
+     padding-top: 1.5em;
+}
+
+header{
+    background-color: #1D332C;
+    border-radius: 220px;
+}
+
+
+footer{
+    font-family: 'Cabin', sans-serif;
+    color: #B9FFE6;
+    background-color: #1D332C;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    word-spacing: 0.25rem;
+}
+
+
+a{
+    text-decoration: none;
+    color: #6CFFD0;
+    font-family: 'Cabin', sans-serif;
+}
+
+p{
+    display: inline-block;
+}
+
+li{
+    background-color: #3B7F72;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    margin-right: 2.5em;
+    padding: 0.25em;
+}
+
+i{
+    margin-left: 0.25em;
+}
+
